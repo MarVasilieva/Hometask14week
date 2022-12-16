@@ -1,4 +1,4 @@
-let photo = document.querySelectorAll('#gallery .photos img');
+let photo = document.querySelectorAll('img');
 let prev = document.querySelector('.prev');
 let next = document.querySelector('.next');
 let i = 0;
